@@ -1,0 +1,15 @@
+body {
+font-family:'Times New Roman', Times, serif;
+background-color: rgba(0, 255, 106, 0.322);
+color:rgb(0, 60, 255);
+}
+header {
+    display: flex;
+    padding: 1rem 2rem;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
