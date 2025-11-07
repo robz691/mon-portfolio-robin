@@ -1,7 +1,7 @@
 body {
 font-family:'Times New Roman', Times, serif;
-background-color: rgba(0, 255, 106, 0.322);
-color:rgb(0, 60, 255);
+background-color: rgba(8, 29, 214, 0.322);
+color:rgb(255, 0, 0);
 }
 header {
     display: flex;
